@@ -2,7 +2,7 @@ Ferret
 =======
 
 Ferret is an information retrieval library in the same vein as Apache Lucene[1].
-Originally it was a full port of Lucene but it now uses it's own file format
+Originally it was a full port of Lucene but it now uses its own file format
 and indexing algorithm although it is still very similar in many ways to
 Lucene. Everything you can do in Lucene you should be able to do in Ferret.
 
