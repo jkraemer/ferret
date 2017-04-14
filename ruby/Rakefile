@@ -250,8 +250,7 @@ spec = Gem::Specification.new do |s|
   #### Author and project details.
   s.author = "David Balmain"
   s.email = "dbalmain@gmail.com"
-  #s.homepage = "http://ferret.davebalmain.com/trac"
-  s.homepage = "http://github.com/jkraemer/ferret"
+  s.homepage = "http://github.com/dbalmain/ferret"
   s.rubyforge_project = "ferret"
 
   s.has_rdoc = true
